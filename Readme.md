@@ -1,4 +1,4 @@
-# Group 8 Data Science Applications Classification Assignment Project 
+# Data Science Applications Classification  Project 
 A simple and well designed structure is essential for any machine learning project, project template that combines **simplicity, best practice for CODE structure** and **good CODE design**. 
 The main idea is that there's much same stuff you do every time when you start our machine learning project, so wrapping all this shared stuff will help you to change just the core idea every time you start our machine learning project. 
 
